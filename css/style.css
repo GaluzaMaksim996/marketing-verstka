@@ -52,10 +52,6 @@ a {
   text-decoration: none;
 }
 
-/* font-family: 'Merriweather', serif; */
-/* font-family: 'Montserrat', sans-serif; */
-/* font-family: 'Raleway', sans-serif; */
-
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
@@ -137,7 +133,7 @@ body {
 
 .header__content {
   padding-top: 100px;
-  background-image: url(/images/header-bg.jpg);
+  background-image: url(../images/header-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -270,15 +266,15 @@ body {
 }
 
 .expertise__item--design::before {
-  background-image: url(/images/design-icon.svg);
+  background-image: url(../images/design-icon.svg);
 }
 
 .expertise__item--dev::before {
-  background-image: url(/images/monitor-icon.svg);
+  background-image: url(../images/monitor-icon.svg);
 }
 
 .expertise__item--marketing::before {
-  background-image: url(/images/speaker-icon.svg);
+  background-image: url(../images/speaker-icon.svg);
 }
 
 .expertise__item-title {
@@ -296,7 +292,7 @@ body {
 
 .magic {
   background-color: #F6F8FA;
-  background-image: url(/images/magic-bg.jpg);
+  background-image: url(../images/magic-bg.jpg);
   background-repeat: no-repeat;
   background-size: 50%;
   background-position: left 82%;
@@ -429,7 +425,7 @@ body {
 }
 
 .portfolio__video {
-  background-image: url(/images/video-bg.jpg);
+  background-image: url(../images/video-bg.jpg);
   height: 324px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -629,7 +625,7 @@ ul.pricing__item {
 
 .connection {
   padding: 145px 0 160px;
-  background-image: url(/images/map.jpg);
+  background-image: url(../images/map.jpg);
   background-size: 40%;
   background-repeat: no-repeat;
   background-position: right 65%;
